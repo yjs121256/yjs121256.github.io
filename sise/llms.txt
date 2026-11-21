@@ -1,0 +1,5 @@
+# 셀러시세
+
+셀러용 가격·순위 추적 대기 명단. 데모는 가상 데이터. 결제 없음.
+URL: https://yjs121256.github.io/sise/
+사전 신청: https://yjs121256.github.io/sise/apply.html
