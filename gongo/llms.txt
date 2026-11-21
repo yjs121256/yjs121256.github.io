@@ -1,0 +1,5 @@
+# 틈새공고
+
+나라장터 공식 OpenAPI로 조경·소방 공고 알림. 결제 없음.
+URL: https://yjs121256.github.io/gongo/
+사전 신청: https://yjs121256.github.io/gongo/apply.html

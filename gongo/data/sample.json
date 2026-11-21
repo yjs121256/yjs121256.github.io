@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "generated_at": "2026-11-21T17:00:47.734740+09:00",
+    "range": "",
+    "source": "조달청 나라장터 입찰공고정보서비스 (data.go.kr 15129394)",
+    "base": "",
+    "note": "공공데이터포털 인증키가 아직 없어 공고를 비워 뒀어. 키를 받으면 gongo/scripts/fetch_bids.py 로 이 파일을 채우면 돼. 가짜 공고는 넣지 않았어.",
+    "errors": [
+      "no service key yet"
+    ]
+  },
+  "items": []
+}
